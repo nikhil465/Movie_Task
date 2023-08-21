@@ -8,7 +8,7 @@ const movieSchema = new mongoose.Schema({
   genre: {
     type: String,
   },
-  category: {
+  language: {
     type: String,
   },
 });
